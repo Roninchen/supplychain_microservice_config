@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: supply-v1-service
+
+test:
+  name: 张三
+  age: 20
+  is-boy: true
+
+
+
